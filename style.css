@@ -175,6 +175,8 @@ a:hover{
   margin: .5rem .3rem;
 }
 
+
+
 @media screen and (max-width: 1280px){
 	.container{
 		grid-gap: 5rem;
@@ -225,7 +227,7 @@ a:hover{
   .forgor_password{
     right: -10%;
   }
-  
+
 }
 
 @media screen and (max-width: 900px){
